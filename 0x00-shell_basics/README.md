@@ -8,3 +8,5 @@ ls -la Displays current directory contents including hidden files in a long form
 ls -na Display current directory contents in a Long format with user and group IDs displayed numerically And hidden files
 mkdir -p /tmp/my_first_directory: Creates a script that creates a directory named my_first_directory in the /tmp/ directory.
 mv /tmp/betty /tmp/my_first_directory Moves the file betty from /tmp/ to /tmp/my_first_directory.
+rm /tmp/my_first_directory: Delete the file betty.The file betty is in /tmp/my_first_directory
+
