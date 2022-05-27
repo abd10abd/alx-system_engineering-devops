@@ -8,3 +8,4 @@
 8, adds execution permission to the owner, the group owner and the other users, to the file hello
 9, sets the permission to the file hello as follows:Owner: no permission at all, Group: no permission at all, Other users: all the permissions
 10, sets the mode of the file hello to this:-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+11, sets the mode of the file hello the same as olleh’s mode. The file hello will be in the working directory. The file olleh will be in the working directory
